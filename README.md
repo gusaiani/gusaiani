@@ -2,6 +2,10 @@
 
 Love to program computers, build teams and companies. Love the human side of work, call it leadership, management.
 
+## Main Technical Interests
+
+React, JavaScript, Elixir.
+
 ## Working on
 
 ### Circuit
@@ -39,6 +43,3 @@ Love to program computers, build teams and companies. Love the human side of wor
 * from 2006 to 2013
 * All I can say is it included Flash
 
-## Main Technical Interests
-
-React, JavaScript, Elixir.
