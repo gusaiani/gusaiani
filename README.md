@@ -6,7 +6,7 @@ Love to program computers, build teams and companies. Love the human side of wor
 
 React, JavaScript, Elixir.
 
-## Working on
+## Work
 
 ### Circuit
 
