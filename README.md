@@ -1,7 +1,3 @@
-### About
-
-Love to program computers, build teams and companies. Love the human side of work, call it leadership, management or simply working in a team.
-
 ### Main Technical Interests
 
 React, JavaScript, Elixir.
