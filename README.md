@@ -8,7 +8,7 @@
 
 #### Circuit
 
-https://www.getcircuit.com · Senior Front-end Engineer · since March ’20 · React, Firestore Cloud Functions
+https://www.getcircuit.com · Senior Front-end Engineer / Team Lead · since March ’20 · React, Firestore Cloud Functions
 
 ### Previously
 
