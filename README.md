@@ -6,11 +6,15 @@
 
 ### Work
 
-#### Circuit
+#### Metabase
 
-https://www.getcircuit.com · Senior Front-end Engineer / Team Lead · since March ’20 · React, Firestore Cloud Functions
+https://www.metabase.com · Front-end Engineer · since May ’21 · React
 
 ### Previously
+
+#### Circuit
+
+https://www.getcircuit.com · Senior Front-end Engineer / Team Lead · from March ’20 to April ’21 · React, Firestore Cloud Functions
 
 #### Toptal Core Team
 
