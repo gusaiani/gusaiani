@@ -18,7 +18,7 @@ https://www.getcircuit.com · Senior Front-end Engineer / Team Lead · from Marc
 
 #### Toptal Core Team
 
-https://www.toptal.com · Team Lead · from July ’18 to March ’20 · React, RoR, Elixir
+https://www.toptal.com · Engineering Manager · from July ’18 to March ’20 · React, RoR, Elixir
 
 #### EmCasa
 
