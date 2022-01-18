@@ -30,4 +30,4 @@ Founder · from Jan ’13 to May ’18 · React, RoR, jQuery, JS and so on
 
 #### Niramekko
 
-Co-founder · from 2006 to 2013 · All I can say is it included Flash
+Co-founder · from 2006 to 2013 · It included Flash
