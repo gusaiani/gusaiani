@@ -1,6 +1,6 @@
 ### Main Technical Interests
 
-**AI** › scaled implementation using agents
+**AI** › agent-augmented engineering
 
 **JavaScript** › Node › TypeScript › React 
 
