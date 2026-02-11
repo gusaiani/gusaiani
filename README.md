@@ -1,8 +1,10 @@
 ### Main Technical Interests
 
-**JavaScript** › TypeScript › React › Cypress › React Testing Library › Apollo › Styled Components
+**AI** › scaled implementation using agents
 
-**Elixir** › Phoenix › Absinthe 
+**JavaScript** › Node › TypeScript › React 
+
+Elixir › Rails › Express.js 
 
 ### Work
 
