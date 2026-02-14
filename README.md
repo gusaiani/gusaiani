@@ -8,7 +8,7 @@ Elixir + Rails + Express.js + Python
 
 ### Work
 
-Looking for the next job. Frontend, full-stack, EM. Do write me at gustavo@poe.ma
+🌟 Looking for the next job. Frontend, full-stack, EM. Do write me at gustavo@poe.ma 🌟
 
 ### Previously
 
