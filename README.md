@@ -4,15 +4,17 @@
 
 **JavaScript** › Node › TypeScript › React 
 
-Elixir › Rails › Express.js 
+Elixir + Rails + Express.js + Python
 
 ### Work
 
-#### Metabase
-
-https://www.metabase.com · Front-end Engineer · since May ’21 · React
+Looking for the next job. Frontend, full-stack, EM. Do write me at gustavo@poe.ma
 
 ### Previously
+
+#### Metabase
+
+https://www.metabase.com · Front-end Engineer · from May ’21 to Febrary ’26 · React, TypeScript, Mantine, Redux, d3.js
 
 #### Circuit
 
