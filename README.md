@@ -16,9 +16,9 @@ Elixir + Rails + Express.js + Python
 
 https://www.metabase.com · Front-end Engineer · from May ’21 to Febrary ’26 · React, TypeScript, Mantine, Redux, d3.js
 
-#### Circuit
+#### Spoke
 
-https://www.getcircuit.com · Senior Front-end Engineer / Team Lead · from March ’20 to April ’21 · React, Firestore Cloud Functions
+https://www.spoke.com · Senior Front-end Engineer / Team Lead · from March ’20 to April ’21 · React, Firestore Cloud Functions
 
 #### Toptal Core Team
 
