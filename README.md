@@ -4,7 +4,7 @@
 
 **JavaScript** › Node › TypeScript › React 
 
-Elixir + Rails + Express.js + Python
+Elixir + Rails + Express.js + Python + Claude Code + Gemini + Cursor 
 
 ### Work
 
