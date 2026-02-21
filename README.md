@@ -8,7 +8,7 @@ Elixir + Rails + Express.js + Python + Claude Code + Gemini + Cursor
 
 ### Work
 
-🌟 Looking for the next job. Frontend, full-stack, EM. Do write me at gustavo@poe.ma 🌟
+🌟 Looking for my next role. Front-end, full-stack, EM. Email me at gustavo@poe.ma 🌟
 
 ### Previously
 
@@ -30,8 +30,8 @@ https://www.emcasa.com · Co-founder, CTO · from July ’17 to June ’18 · Re
 
 #### Poema
 
-Founder · from Jan ’13 to May ’18 · React, RoR, jQuery, JS and so on
+Founder · from January ’13 to May ’18 · React, RoR, jQuery, JS
 
 #### Niramekko
 
-Co-founder · from 2006 to 2013 · It included Flash
+Co-founder · from 2006 to 2013
