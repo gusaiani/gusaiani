@@ -32,10 +32,10 @@ https://www.emcasa.com · Co-founder, CTO · from July ’17 to June ’18 · Re
 
 Founder · from January ’13 to May ’18 · React, RoR, jQuery, JS
 
-<hr>
-
-Feel free to connect with me on <a href="https://linkedin.com/in/gusaiani" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
-
 #### Niramekko
 
 Co-founder · from 2006 to 2013
+
+<hr>
+
+Feel free to connect with me on <a href="https://linkedin.com/in/gusaiani" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
