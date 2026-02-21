@@ -14,7 +14,7 @@ Elixir + Rails + Express.js + Python + Claude Code + Gemini + Cursor
 
 #### Metabase
 
-https://www.metabase.com · Front-end Engineer · from May ’21 to Febrary ’26 · React, TypeScript, Mantine, Redux, d3.js
+https://www.metabase.com · Front-end Engineer · from May ’21 to February ’26 · React, TypeScript, Mantine, Redux, d3.js
 
 #### Spoke
 
