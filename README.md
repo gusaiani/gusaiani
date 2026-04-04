@@ -1,6 +1,6 @@
 ### Main Technical Interests
 
-**AI** › agent-augmented engineering › integrations
+**AI** › applied AI › agent-augmented engineering › integrations
 
 **JavaScript** › Node › TypeScript › React 
 
