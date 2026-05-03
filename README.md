@@ -17,7 +17,7 @@ Elixir + Rails + Express.js + Python + Claude Code + Gemini + Cursor
 
 🌟 Looking for my next role. Applied AI, full-stack, front-end, EM. Email me at gustavo@poe.ma 🌟
 
-Open to: Applied AI Engineer, Full-stack with AI focus, AI Eng Manager · Remote, USD
+Open to: Applied AI Engineer, FE/Full-stack with AI focus, Eng Manager · Remote
 
 ### Previously
 
