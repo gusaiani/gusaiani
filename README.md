@@ -1,14 +1,23 @@
 ### Main Technical Interests
 
-**AI** › applied AI › agent-augmented engineering › integrations
+**AI** › applied AI › agents · RAG · evals · production
 
 **JavaScript** › Node › TypeScript › React 
 
 Elixir + Rails + Express.js + Python + Claude Code + Gemini + Cursor 
 
+### AI Engineering Portfolio
+
+13-module course, built end-to-end. RAG, agents, evals, fine-tuning, multi-agent, observability, multimodal.
+
+**Live** › https://ai-tech-support.gustavosaiani.com/
+**Code** › https://github.com/gusaiani/learning-ai-engineering
+
 ### Work
 
-🌟 Looking for my next role. Front-end, full-stack, EM. Email me at gustavo@poe.ma 🌟
+🌟 Looking for my next role. Applied AI, full-stack, front-end, EM. Email me at gustavo@poe.ma 🌟
+
+Open to: Applied AI Engineer, Full-stack with AI focus, AI Eng Manager · Remote, USD
 
 ### Previously
 
