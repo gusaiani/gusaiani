@@ -4,7 +4,7 @@
 
 **JavaScript** › Node › TypeScript › React 
 
-Rust + Elixir + Rails  Python
+Rust · Elixir · Rails · Python
 
 ### AI Engineering Portfolio
 
