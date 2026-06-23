@@ -33,18 +33,6 @@ https://www.spoke.com · Senior Front-end Engineer / Team Lead · from March ’
 
 https://www.toptal.com · Engineering Manager · from July ’18 to March ’20 · React, RoR, Elixir
 
-#### EmCasa
-
-https://www.emcasa.com · Co-founder, CTO · from July ’17 to June ’18 · React, Elixir
-
-#### Poema
-
-Founder · from January ’13 to May ’18 · React, RoR, jQuery, JS
-
-#### Niramekko
-
-Co-founder · from 2006 to 2013
-
 <hr>
 
 Feel free to connect with me on <a href="https://linkedin.com/in/gusaiani" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
