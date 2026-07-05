@@ -1,38 +1,27 @@
-### Main Technical Interests
+## Gustavo Saiani
 
-**AI** › applied AI › agents · RAG · evals · production
+**Senior product engineer — full-stack + AI, fintech.** I build data-heavy financial products end to end: React/TypeScript front ends, Python/Django back ends, and the infrastructure that keeps them running in production. 16 years in.
 
-**JavaScript** › Node › TypeScript › React 
+### Now › [sponda.capital](https://sponda.capital)
 
-Rust · Elixir · Rails · Python
+Fundamental analysis for value investors — inflation-adjusted indicators (PE10/CAPE, PFCF10, PEG), screening, and side-by-side comparisons across ~23k listed companies.
 
-### AI Engineering Portfolio
+Designed, built, and operated solo: Django · PostgreSQL · Redis · Celery · Next.js · TypeScript · sharded Playwright e2e on GitHub Actions · Docker · nginx → [code](https://github.com/gusaiani/sponda)
 
-13-module course, built end-to-end. RAG, agents, evals, fine-tuning, multi-agent, observability, multimodal.
+*A decade in the making: [look-in-tens](https://github.com/gusaiani/look-in-tens) was my 2016 PE10 experiment. Sponda is what it grew into.*
 
-**Live** › https://ai-tech-support.gustavosaiani.com/
-**Code** › https://github.com/gusaiani/learning-ai-engineering
+### AI engineering
 
-### Work
+Project-based work across RAG, agents, evals, fine-tuning, and observability: [ai-engineering](https://github.com/gusaiani/ai-engineering), capstone live at [ai-tech-support.gustavosaiani.com](https://ai-tech-support.gustavosaiani.com/). Next up: a natural-language screening agent over Sponda's fundamentals, with evals.
 
-🌟 Looking for my next role. Applied AI, full-stack, front-end, EM. Email me at gustavo@poe.ma 🌟
+### Background
 
-Open to: Applied AI Engineer, FE/Full-stack with AI focus, Eng Manager · Remote
+- **[Metabase](https://www.metabase.com)** — Senior Engineer, 2021–2026 · open-source BI platform, grew from 30k to 90k customers while I was there · [my merged PRs](https://github.com/metabase/metabase/pulls?q=is%3Apr+author%3Agusaiani+is%3Amerged)
+- **Spoke** — Team Lead, 2020–2021 · greenfield React app now tracking 1B+ parcel deliveries a year
+- **[Toptal](https://www.toptal.com)** — Engineering Manager, 2018–2020 · Freelancer Profile app serving 7k+ freelancers in 140 countries
+- **[EmCasa](https://emcasa.com)** — Co-founder & CTO, 2017–2018 · React + Elixir MVP, raised $1M seed
+- **[Poema](https://poe.ma)** — the value-investing partnership I've run since 2017 · CGA-certified. Fintech is home turf, not a vertical I'm visiting.
 
-### Previously
+### Elsewhere
 
-#### Metabase
-
-https://www.metabase.com · Front-end Engineer · from May ’21 to February ’26 · React, TypeScript, Mantine, Redux, d3.js
-
-#### Spoke
-
-https://www.spoke.com · Senior Front-end Engineer / Team Lead · from March ’20 to April ’21 · React, Firestore Cloud Functions
-
-#### Toptal Core Team
-
-https://www.toptal.com · Engineering Manager · from July ’18 to March ’20 · React, RoR, Elixir
-
-<hr>
-
-Feel free to connect with me on <a href="https://linkedin.com/in/gusaiani" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+[Blog](https://blog.gustavosaiani.com) · [LinkedIn](https://linkedin.com/in/gusaiani) · gustavo@poe.ma — open to senior remote roles, working from Rio with US/EU overlap.
