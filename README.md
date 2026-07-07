@@ -16,7 +16,7 @@ Project-based work across RAG, agents, evals, fine-tuning, and observability: [a
 
 ### Background
 
-- **[Metabase](https://www.metabase.com)** — Senior Engineer, 2021–2026 · open-source BI platform, grew from 30k to 90k customers while I was there · [my merged PRs](https://github.com/metabase/metabase/pulls?q=is%3Apr+author%3Agusaiani+is%3Amerged)
+- **[Metabase](https://www.metabase.com)** — Senior Engineer, 2021–2026 · open-source BI platform, grew from 30k to 90k customers while I was there · selected merged work: [auth Group Mappings UX](https://github.com/metabase/metabase/pull/28108), [event visibility in visualizations](https://github.com/metabase/metabase/pull/27254), [Redux store in GroupMappingsWidget](https://github.com/metabase/metabase/pull/28594)
 - **Spoke** — Team Lead, 2020–2021 · greenfield React app now tracking 1B+ parcel deliveries a year
 - **[Toptal](https://www.toptal.com)** — Engineering Manager, 2018–2020 · Freelancer Profile app serving 7k+ freelancers in 140 countries
 - **[EmCasa](https://emcasa.com)** — Co-founder & CTO, 2017–2018 · React + Elixir MVP, raised $1M seed
