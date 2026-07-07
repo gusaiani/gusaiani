@@ -1,6 +1,6 @@
 ## Gustavo Saiani
 
-**Senior product engineer — full-stack + AI, fintech.** I build data-heavy financial products end to end: React/TypeScript front ends, Python/Django back ends, and the infrastructure that keeps them running in production. 16 years in.
+**Senior product engineer — full-stack + AI.** I build data-heavy products end to end — most recently financial ones: React/TypeScript front ends, Python/Django back ends, and the infrastructure that keeps them running in production. 16 years in.
 
 ### Now › [sponda.capital](https://sponda.capital)
 
